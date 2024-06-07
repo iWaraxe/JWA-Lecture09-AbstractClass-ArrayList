@@ -1,4 +1,4 @@
-package com.coherentsolutions.java.webauto.section01;
+package com.coherentsolutions.java.webauto.section01.ex01;
 
 /**
  * Dog class extending Animal and implementing abstract methods.

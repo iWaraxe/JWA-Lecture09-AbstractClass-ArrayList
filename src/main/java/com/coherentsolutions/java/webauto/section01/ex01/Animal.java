@@ -1,4 +1,4 @@
-package com.coherentsolutions.java.webauto.section01;
+package com.coherentsolutions.java.webauto.section01.ex01;
 
 /**
  * Abstract class Animal demonstrating abstract methods and fields.
@@ -7,7 +7,7 @@ public abstract class Animal {
 
     public static int counter;
     private String name;
-    private Color color;
+    private Color color; // Blue, blu, Blu, Bluey
     private int age;
 
     public Animal(String name, Color color, int age) {

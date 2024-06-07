@@ -1,4 +1,4 @@
-package com.coherentsolutions.java.webauto.section03;
+package com.coherentsolutions.java.webauto.section03.supportingclasses;
 
 /**
  * Abstract class Animal demonstrating abstract methods and fields.

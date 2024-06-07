@@ -1,4 +1,4 @@
-package com.coherentsolutions.java.webauto.section01;
+package com.coherentsolutions.java.webauto.section01.ex01;
 
 /**
  * Cat class extending Animal and implementing abstract methods.
@@ -16,6 +16,7 @@ public class Cat extends Animal {
     public void eat() {
         System.out.println("I only eat Whiskas.");
     }
+
 
     @Override
     public void say() {
